@@ -4,14 +4,6 @@ I'm an **upcoming software engineer** with a passion for building beautiful and 
 
 ---
 
-## 🚀 Skills
-
-- **Front-End Development**: Proficient in HTML and CSS for creating responsive and visually appealing websites.
-- **Version Control**: Experienced in using Git for collaborative development and version control.
-- **Problem Solving**: Strong analytical and problem-solving skills to tackle coding challenges.
-- **Continuous Learning**: Always exploring new tools and technologies to stay updated in the ever-evolving tech world.
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -21,15 +13,6 @@ I'm an **upcoming software engineer** with a passion for building beautiful and 
 - **Other Tools**: Command Line, DevTools
 
 ---
-
-## 🎯 Goals
-
-- Contribute to **open-source projects**.
-- Build a **full-stack web application**.
-- Land a role as a **front-end developer** or **software engineer**.
-
----
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.i.r_borne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juma Gerald) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geraldjuma06@gmail.com) 
