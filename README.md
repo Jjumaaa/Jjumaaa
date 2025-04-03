@@ -1,13 +1,13 @@
 # Hi, I'm Gerald Juma 👋
 
-I'm an **upcoming software engineer** with a passion for building beautiful and functional web applications. I specialize in **front-end development** and have a strong foundation in **HTML**, **CSS**, and **Git**. I'm always eager to learn new technologies and improve my skills to create impactful projects.
+I'm an **upcoming software engineer** with a passion for building beautiful and functional web applications. I specialize in **front-end development** and have a strong foundation in **HTML**, **CSS**, **JS** and **Git**. I'm always eager to learn new technologies and improve my skills to create impactful projects.
 
 ---
 
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: HTML, CSS
+- **Languages**: HTML, CSS, JS
 - **Version Control**: Git, GitHub
 - **Editors**: VS Code
 - **Other Tools**: Command Line, DevTools
