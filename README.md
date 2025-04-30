@@ -7,7 +7,7 @@ I'm an **upcoming software engineer** with a passion for building beautiful and 
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: HTML, CSS, JS
+- **Languages**: HTML, CSS, JS, React
 - **Version Control**: Git, GitHub
 - **Editors**: VS Code
 - **Other Tools**: Command Line, DevTools
