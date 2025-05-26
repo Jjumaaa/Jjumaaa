@@ -38,7 +38,7 @@ I'm currently improving my knowledge in **Python** and **SQL**
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me:
 
 - **GitHub**: [Your GitHub Profile](#)
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: www.linkedin.com/in/juma-gerald-870abb350
 - **Email**: [Your Email Address](#)
 
 
