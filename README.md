@@ -39,7 +39,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - **GitHub**: [Your GitHub Profile](#)
 - **LinkedIn**: www.linkedin.com/in/juma-gerald-870abb350
-- **Email**: [Your Email Address](#)
+- **Email**: geraldjuma06@gmail.com
 
 
 Thanks for visiting my profile! Let's build something amazing together. 😊
